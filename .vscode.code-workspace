@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".vscode"
+		},
+		{
+			"path": "bootstrap"
+		},
+		{
+			"path": "image"
+		},
+		{
+			"path": "uploads"
+		}
+	],
+	"settings": {}
+}
